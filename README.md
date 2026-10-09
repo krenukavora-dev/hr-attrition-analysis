@@ -1,2 +1,1 @@
-#hr-attrition-analysis
-complete project based on HR Data
+- [HR Analytics](https://github.com/krenukavora-dev/hr-attrition-analysis) — Employee attrition analysis
